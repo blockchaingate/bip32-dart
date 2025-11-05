@@ -1,5 +1,5 @@
 import 'dart:typed_data';
-import 'package:hex/hex.dart';
+//import 'package:hex/hex.dart';
 
 import 'utils/crypto.dart';
 import 'utils/ecurve.dart' as ecc;
